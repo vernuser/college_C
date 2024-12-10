@@ -1,0 +1,3 @@
+D:/college/C_language/cmake-build-debug/CMakeFiles/C_language.dir
+D:/college/C_language/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/college/C_language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
